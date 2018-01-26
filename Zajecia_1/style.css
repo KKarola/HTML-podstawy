@@ -1,0 +1,31 @@
+body 
+{
+	background-color: gray;
+	font-family: Verdana;
+	font-size: 20px;
+	color: white;
+}
+
+h1
+{
+	font-size: 48px;
+	color: red !important;
+}
+
+/*nieodwiedzone hiperłącze */
+a:link
+{
+	color: yellow;
+}
+
+/*odwiedzone hiperłącze */
+a:visited
+{
+	color: yellow;
+}
+
+/*hiperłącze po najechaniu myszką*/
+a:hover
+{
+	color: red;
+}
